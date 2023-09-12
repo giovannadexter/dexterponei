@@ -11,8 +11,6 @@
     <ul>
         <li><a href="dexter.html"> DEXTER</a></li>
 
-       
-    </ul>
-    <hr>
+    
 </body>
 </html>
